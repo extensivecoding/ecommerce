@@ -1,0 +1,9 @@
+.pimage{
+    height: 250px;
+}
+@media only screen and (max-width: 600px) {
+    #productimage{
+        width: 260px;
+        margin: 0 auto;
+    }
+  }
